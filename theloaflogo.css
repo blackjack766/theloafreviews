@@ -1,0 +1,17 @@
+@charset "utf-8";
+	.NormalCharacterStyle1
+{
+	font-family : FlatBread;
+	font-size : 93px;
+	color : #333333;
+	color : rgb(51, 51, 51);
+	text-outline : #000000;
+	text-outline : rgb(0, 0, 0);
+}
+.NormalCharacterStyle
+{
+	font-family : FlatBread;
+	font-size : 93px;
+	color : #FBB03A;
+	color : rgb(251, 176, 58);
+}
